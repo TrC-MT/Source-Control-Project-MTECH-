@@ -4,8 +4,20 @@ html, body {
   }
 /* This is the css file that went with that particular index.html which was just a table. */
 
+<<<<<<< HEAD
 
 /*Now I'm making changes in the develop branch*/
 em {
     color:blueviolet;
+=======
+/* Now I'm (again) making changes in the develop branch */
+
+em {
+    color: blueviolet;
+}
+
+/*Feature/demobranch */
+p {
+    color: greenyellow;
+>>>>>>> feature/demo
 }
