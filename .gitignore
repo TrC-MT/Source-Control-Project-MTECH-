@@ -1,0 +1,4 @@
+#Ignores all DS files (A hidden file Apple makes)
+*DS*
+#Ignores all .blah files (I create those to test if this works)
+*blah
